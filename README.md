@@ -15,6 +15,3 @@ The last column is the response variable, which is a continuous value between 0 
 ## Authors
 
 - [@piyusprabhanjans](https://github.com/pp0605)
-- Jyoti Jena
-- Pritam Mishra
-- R Arbind Panda
